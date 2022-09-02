@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Nabiev Nasibullo</h1>
 <h3 align="center">A passionate flutter junior developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://joshuamdeguzman.com/content/images/2021/01/1-cGaTxrPGlA29Z9QcaRg-xA-1.gif">
+<img align="right" alt="Coding" width="400" src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasibullonabiev&label=Profile%20views&color=0e75b6&style=flat" alt="nasibullonabiev" /> </p>
 
