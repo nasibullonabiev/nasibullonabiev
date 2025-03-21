@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasibullonabiev&label=Profile%20views&color=0e75b6&style=flat" alt="nasibullonabiev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nasibullonabiev" target="blank"><img src="https://img.shields.io/twitter/follow/nasibullonabiev?logo=twitter&style=for-the-badge" alt="nasibullonabiev" /></a> </p>
-https://www.codewars.com/users/nasibullonabiev/badges/large
+
 - 🔭 I’m currently working on **tasks_app_bloc**
 
 - 🌱 I’m currently learning **Flutter App Development**
